@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(174, 100, 30);
+}
+header{
+    background-color: rgb(56, 162, 44);
+    color:antiquewhite;
+    padding: 10px 10px;
+    text-align:center;
+}
+
+nav{
+    background-color: antiquewhite;
+    padding: 10px;
+    border-bottom: 1px solid #f9e5c2;
+}
